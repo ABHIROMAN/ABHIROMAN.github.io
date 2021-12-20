@@ -2,8 +2,13 @@
 ### AI/ML and Data science enthusiast
 
 ## EDUCATION
-- VIT Bhopal
-- IIT Madras
+- VIT Bhopal (B.tech in CSE with specialization in AI/ML)
+- IIT Madras (B.S in Programming and Data Science)
+
+## EXPERIENCE
+- [Data Analyst Internship :- ShapeAI](https://www.linkedin.com/in/abhishek-kumar-0b08291bb/overlay/1635463450303/single-media-viewer/)
+- [Skill India Python for AI/Ml Internship:- Elite Techno Groups](https://www.linkedin.com/in/abhishek-kumar-0b08291bb/overlay/experience/1825761742/multiple-media-viewer/?treasuryMediaId=1635470401227)
+- [Data Science Internship :- LetsGrowMore](https://www.linkedin.com/in/abhishek-kumar-0b08291bb/overlay/experience/1826816554/multiple-media-viewer/?treasuryMediaId=1635470784384)
 
 ### [Project -1 : Iris Flowers classification ML Project](https://github.com/ABHIROMAN/Iris-FLowers-Classification-ML-project)
 - This is a Machine Learning Project
